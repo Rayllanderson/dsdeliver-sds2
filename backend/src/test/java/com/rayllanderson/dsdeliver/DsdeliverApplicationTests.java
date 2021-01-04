@@ -1,4 +1,4 @@
-package com.rayllanderson.pedidocaneca;
+package com.rayllanderson.dsdeliver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
