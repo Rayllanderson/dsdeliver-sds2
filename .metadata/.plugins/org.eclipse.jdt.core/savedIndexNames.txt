@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\rayll\sts - workspace\ws-sds2\.metadata\.plugins\org.eclipse.jdt.core
+1965174767.index
+1574843208.index
