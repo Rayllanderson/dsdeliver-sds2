@@ -1,6 +1,5 @@
 dtdComment=\#FFFFFF | null | false | false | false | false
 dtdData=\#CFBFAD | null | false | true | false | false
-dtdDefault=\#D8D8D8 | null | null | null | null | null
 dtdKeyword=\#f4007a | null | false | false | false | false
 dtdString=\#ECE47E | null | false | true | false | false
 dtdSymbol=\#CFBFAD | null | false | false | false | false
@@ -8,4 +7,3 @@ dtdTag=\#CFBFAD | null | false | false | false | false
 dtdTagName=\#CFBFAD | null | false | false | false | false
 eclipse.preferences.version=1
 org.eclipse.wst.sse.ui.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
-overriddenByCSS=,dtdDefault,

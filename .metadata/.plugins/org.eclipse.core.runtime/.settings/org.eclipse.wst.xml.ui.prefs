@@ -13,7 +13,7 @@ entityReference=\#F92672 | null | false | false | false | false
 newFileTemplateName=xml declaration
 org.eclipse.wst.sse.ui.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
 org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart.lastActivePage=1
-overriddenByCSS=,piBorder,piContent,tagAttributeEquals,tagAttributeName,tagName,
+overriddenByCSS=,cdataBorder,cdataText,doctypeExternalId,piBorder,piContent,tagAttributeEquals,tagAttributeName,tagName,
 piBorder=\#028fb8 | null | false | false | false | false
 piContent=\#e3e6e8 | null | false | false | false | false
 tagAttributeEquals=\#4fc310 | null | false | false | false | false
